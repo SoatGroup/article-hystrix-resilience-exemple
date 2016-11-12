@@ -1,2 +1,2 @@
 # hystrix
-code source exemples article de blog sur hystrix
+Code source des exemples de l'article de blog sur hystrix
